@@ -1,7 +1,7 @@
 # ANGEL MUSIC BOT
 𝙃𝙚𝙡𝙡𝙤, 𝙄 𝘼𝙢 𝘼𝙉𝙂𝙀𝙇 𝙎𝙪𝙥𝙚𝙧 𝙁𝙖𝙨𝙩 𝙈𝙪𝙨𝙞𝙘 𝙋𝙡𝙖𝙮𝙚𝙧 𝘽𝙤𝙩 𝙁𝙤𝙧 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙂𝙧𝙤𝙪𝙥𝙨 ... 
 
-★𝘾𝙍𝙀𝘼𝙏𝙀𝘿 𝘽𝙔  [𝙎𝙊𝘾𝙄𝘼𝙇 𝙈𝙀𝘾𝙃𝘼𝙉𝙄𝘾](https://t.me/social_mechanic_1997)
+★𝘾𝙍𝙀𝘼𝙏𝙀𝘿 𝘽𝙔  [Mahsoom](https://t.me/social_mechanic_1997)
 <h2 align="centre">𝘼𝙉𝙂𝙀𝙇 𝙈𝙐𝙎𝙄𝘾 𝘽𝙊𝙏</h2>
 
 ### ANGEL 𝐌𝐮𝐬𝐢𝐜 𝐁𝐨𝐭 ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
@@ -38,9 +38,9 @@ to get pyrogram string session
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SOCIAL-MECHANIC-TEAM-NRD/ANGEL-MUSIC-BOT)
 
 # ᴄʀᴇᴀᴛᴇᴅ ʙʏ:
-# [🇸𝙾𝙲𝙸𝙰𝙻 🇲𝙴𝙲𝙷𝙰𝙽𝙸𝙲](https://t.me/social_mechanic_1997) 
+# [MAHSOOM](https://t.me/call_me_futurepilot) 
 
 ᴄʜᴇᴄᴋ ᴍʏ ɢɪᴛʜᴜʙ ᴘʀᴏғɪʟᴇ ᴀɴᴅ ғᴏʟʟᴏᴡ ᴍᴇ 
-- [𝙎𝙊𝘾𝙄𝘼𝙇 𝙈𝙀𝘾𝙃𝘼𝙉𝙄𝘾](https://github.com/SOCIAL-MECHANIC-TEAM-NRD) 👈🏼
-- [𝘿𝙀𝙈𝙊 𝘽𝙊𝙏](https://t.me/social_mechanic_music_bot) 👈🏼
-- [𝙈𝘼𝙄𝙉𝙏𝙀𝙉𝘼𝙉𝘾𝙀](https://t.me/eye_black_lover) 👈🏼
+- [MAHSOOM](https://github.com/mahsoommjm64@gmail.com) 👈🏼
+- [Demo bot](https://t.me/mahsoom_music_playbot) 👈🏼
+- [Anyproblem](https://t.me/call_me_futurepilot) 👈🏼
