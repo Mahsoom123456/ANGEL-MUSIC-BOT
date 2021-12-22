@@ -34,7 +34,7 @@ async def _human_time_duration(seconds):
 @Client.on_message(command("start") & filters.private & ~filters.edited)
 async def start_(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/326fdecd025a145566963.png",
+        photo=f"https://telegra.ph/file/0ba0d1c918cabd6db0997.png",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
  𝙃𝙚𝙡𝙡𝙤, 𝙄 Am Mahsoom music Bot...
 
@@ -59,13 +59,13 @@ async def start_(client: Client, message: Message):
 @Client.on_message(commandpro(["/start", "/alive", "Sumit"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/326fdecd025a145566963.png",
+        photo=f"",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "⚡𝗦𝘂𝗽𝗽𝗼𝗿𝘁⚡", url=f"https://t.me/mahsoombotupdate")
+                        "⚡support⚡", url=f"https://t.me/mahsoombotupdate")
                 ]
             ]
         ),
@@ -75,13 +75,13 @@ async def start(client: Client, message: Message):
 @Client.on_message(commandpro(["Angel", "Group", "@Channel", "/Channel", "Channel"]) & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/326fdecd025a145566963.png",
+        photo=f"https://telegra.ph/file/0ba0d1c918cabd6db0997.png",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "⚡𝗖𝗵𝗮𝗻𝗻𝗲𝗹⚡", url=f"https://t.me/mahsoombotupdate")
+                        "⚡channel⚡", url=f"https://t.me/mahsoombotupdate")
                 ]
                 
             ]
