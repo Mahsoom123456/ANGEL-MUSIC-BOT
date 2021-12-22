@@ -1,17 +1,17 @@
 # ANGEL MUSIC BOT
 𝙃𝙚𝙡𝙡𝙤, 𝙄 𝘼𝙢 𝘼𝙉𝙂𝙀𝙇 𝙎𝙪𝙥𝙚𝙧 𝙁𝙖𝙨𝙩 𝙈𝙪𝙨𝙞𝙘 𝙋𝙡𝙖𝙮𝙚𝙧 𝘽𝙤𝙩 𝙁𝙤𝙧 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙂𝙧𝙤𝙪𝙥𝙨 ... 
 
-★𝘾𝙍𝙀𝘼𝙏𝙀𝘿 𝘽𝙔  [Mahsoom](https://t.me/social_mechanic_1997)
+★𝘾𝙍𝙀𝘼𝙏𝙀𝘿 𝘽𝙔  [Mahsoom](https://t.me/call_me_futurepilot)
 <h2 align="centre">𝘼𝙉𝙂𝙀𝙇 𝙈𝙐𝙎𝙄𝘾 𝘽𝙊𝙏</h2>
 
 ### ANGEL 𝐌𝐮𝐬𝐢𝐜 𝐁𝐨𝐭 ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
-<p align="center"><a href="https://t.me/tamil_chat_group_1"><img src="https://telegra.ph/file/6caec29bf58337953a4b4.png" width="300"></a></p>
+<p align="center"><a href="https://t.me/Tamil_Friendship_Group"><img src="https://telegra.ph/file/0ba0d1c918cabd6db0997.png" width="300"></a></p>
 
 
 
-### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ
-<a href="https://t.me/tamil_chat_group_1"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/TECHNOLOGY_CORNER_1"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+
+
 
 
 ### ᴄᴏᴍᴍᴀɴᴅs 🛠
